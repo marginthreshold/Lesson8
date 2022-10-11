@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Min Sum Row Elements in 2dArray/1.0.0": {
+        "runtime": {
+          "Min Sum Row Elements in 2dArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Min Sum Row Elements in 2dArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
