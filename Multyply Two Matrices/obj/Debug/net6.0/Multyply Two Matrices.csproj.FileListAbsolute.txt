@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\bin\Debug\net6.0\Multyply Two Matrices.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\bin\Debug\net6.0\Multyply Two Matrices.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\bin\Debug\net6.0\Multyply Two Matrices.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\bin\Debug\net6.0\Multyply Two Matrices.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\bin\Debug\net6.0\Multyply Two Matrices.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\obj\Debug\net6.0\Multyply Two Matrices.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\obj\Debug\net6.0\Multyply Two Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\obj\Debug\net6.0\Multyply Two Matrices.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\obj\Debug\net6.0\Multyply Two Matrices.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\obj\Debug\net6.0\Multyply Two Matrices.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\obj\Debug\net6.0\Multyply Two Matrices.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\obj\Debug\net6.0\refint\Multyply Two Matrices.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\obj\Debug\net6.0\Multyply Two Matrices.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\obj\Debug\net6.0\Multyply Two Matrices.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\Multyply Two Matrices\obj\Debug\net6.0\ref\Multyply Two Matrices.dll
