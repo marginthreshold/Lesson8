@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\bin\Debug\net6.0\2dArray to RowDescending 2dArray.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\bin\Debug\net6.0\2dArray to RowDescending 2dArray.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\bin\Debug\net6.0\2dArray to RowDescending 2dArray.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\bin\Debug\net6.0\2dArray to RowDescending 2dArray.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\bin\Debug\net6.0\2dArray to RowDescending 2dArray.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\obj\Debug\net6.0\2dArray to RowDescending 2dArray.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\obj\Debug\net6.0\2dArray to RowDescending 2dArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\obj\Debug\net6.0\2dArray to RowDescending 2dArray.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\obj\Debug\net6.0\2dArray to RowDescending 2dArray.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\obj\Debug\net6.0\2dArray to RowDescending 2dArray.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\obj\Debug\net6.0\2dArray to RowDescending 2dArray.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\obj\Debug\net6.0\refint\2dArray to RowDescending 2dArray.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\obj\Debug\net6.0\2dArray to RowDescending 2dArray.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\obj\Debug\net6.0\2dArray to RowDescending 2dArray.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\2dArray to RowDescending 2dArray\obj\Debug\net6.0\ref\2dArray to RowDescending 2dArray.dll
