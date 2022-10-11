@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\obj\Debug\net6.0\3DArray with Indecies.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\obj\Debug\net6.0\3DArray with Indecies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\obj\Debug\net6.0\3DArray with Indecies.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\obj\Debug\net6.0\3DArray with Indecies.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\obj\Debug\net6.0\3DArray with Indecies.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\bin\Debug\net6.0\3DArray with Indecies.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\bin\Debug\net6.0\3DArray with Indecies.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\bin\Debug\net6.0\3DArray with Indecies.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\bin\Debug\net6.0\3DArray with Indecies.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\bin\Debug\net6.0\3DArray with Indecies.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\obj\Debug\net6.0\3DArray with Indecies.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\obj\Debug\net6.0\refint\3DArray with Indecies.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\obj\Debug\net6.0\3DArray with Indecies.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\obj\Debug\net6.0\3DArray with Indecies.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson8\3DArray with Indecies\obj\Debug\net6.0\ref\3DArray with Indecies.dll
