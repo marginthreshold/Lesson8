@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Snail 2dArray/1.0.0": {
+        "runtime": {
+          "Snail 2dArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snail 2dArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
